@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Home Task">
+<test name="endToendScenario">
+    <classes>
+        <class name="PlayTests"></class>
+
+    </classes>
+
+</test>
+
+</suite>
